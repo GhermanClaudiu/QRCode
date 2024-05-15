@@ -14,6 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+
 This challenge was to build a QR code component and get it looking as close to the design as possible. Users should be able to view the optimal layout depending on their device's screen size.
 
 ### Screenshot
@@ -23,7 +24,7 @@ This challenge was to build a QR code component and get it looking as close to t
 
 ### Links
 
-- Solution URL: [Frontend Mentor | QR code component | Gherman Claudiu ]()
+- Solution URL: [Frontend Mentor | QR code component | Gherman Claudiu ](https://ghermanclaudiu.github.io/QRCode/)
 
 ## My process
 
